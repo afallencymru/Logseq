@@ -1,0 +1,23 @@
+- Organisation 
+  template:: Organisation
+  template-including-parent:: false
+	- ## Organisation information:
+		- ### About
+		  background-color:: gray
+		-
+		- ### Communication channels
+		  background-color:: yellow
+			- [LinkedIn]()
+			- [Twitter]()
+			- [Website]()
+			- [Mastodon]()
+			- [Pixelfed]()
+		- ### Staff include:
+		  background-color:: green
+			-
+		- ### Board includes:
+		  background-color:: pink
+			-
+		- ### Activity sectors include:
+		  background-color:: blue
+			-
