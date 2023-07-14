@@ -1,0 +1,23 @@
+- Person 
+  template:: Person template
+	-
+	- ### About
+	  background-color:: gray
+		- Location:
+	- ### Communication channels
+	  background-color:: red
+		- [LinkedIn]()
+		- [Website]()
+		- Email:
+		- Phone:
+	- ### Associated with:
+	  background-color:: yellow
+		-
+	- ### Languages spoken:
+	  background-color:: green
+		-
+	- ### Professional interests:
+	  background-color:: blue
+		-
+	- Personal pronouns
+	  background-color:: purple
